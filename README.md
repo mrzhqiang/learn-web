@@ -25,13 +25,13 @@
 
 ## 目录
 
-- [ ] [HTML](/html)
-- [ ] [CSS](/css)
-- [ ] [JavaScript](/javascript)
-- [ ] [Framework](/framework)
-  - [ ] [Angular](/framework/angular)
-  - [ ] [React](/framework/react)
-  - [ ] [Vue](/framework/vue)
+- [ ] [HTML](./html)
+- [ ] [CSS](./css)
+- [ ] [JavaScript](./javascript)
+- [ ] [Framework](./framework)
+  - [ ] [Angular](./framework/angular)
+  - [ ] [React](./framework/react)
+  - [ ] [Vue](./framework/vue)
 
 ## 声明
 
